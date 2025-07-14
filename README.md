@@ -23,7 +23,7 @@
 ### ❤️ [PulseAI](https://github.com/hellonearth311/PulseAI)
 > A heart disease prediction ML model trained to save lives, not just accuracy points
 
-### 🪟 WinStatz
+### 🪟 [Statz](https://github.com/hellonearth311/Statz)
 > System specs and usage data at a glance
 
 ---
