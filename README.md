@@ -1,6 +1,6 @@
 # Hey, I’m Swarit (aka hellonearth311)
 
-☁️ Future MIT Engineer | 🧠 ML Nerd | 🕹 Geometry Dash Demon Slayer  
+☁️ Future MIT Engineer | 🧠 Chip Design Nerd | 🕹 Geometry Dash Demon Slayer  
 ⚙️ I build cool stuff with code, curiosity, and maybe too much caffeine.
 
 ---
