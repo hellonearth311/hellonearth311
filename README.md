@@ -17,10 +17,10 @@
 
 ## 🔥 Projects
 
-### 🪐 [CosmoLens](https://github.com/hellonearth311/CosmoLens)
-> NASA exoplanet explorer powered by real data and your curiosity
+### 👻 [Echoes of the Void (WIP)](https://github.com/hellonearth311/Echoes-of-the-Void)
+> A Minecraft mod that introduces rare structures, mysterious mobs, and powerful items, made in Fabric.
 
-### ❤️ [PulseAI](https://github.com/hellonearth311/PulseAI)
+### ❤️ [PulseAI (WIP)](https://github.com/hellonearth311/PulseAI)
 > A heart disease prediction ML model trained to save lives, not just accuracy points
 
 ### 🪟 [Statz](https://github.com/hellonearth311/Statz)
@@ -36,8 +36,7 @@
 
 ## 🧠 Currently Learning
 
-- 🐼 Panda3D for a flight simulator  
-- 📐 Desmos to defeat the geometry final boss  
+- 📄 FabricMC because why not
 - 📱 Swift & SwiftUI (because yes, I love Apple that much)
 
 ---
