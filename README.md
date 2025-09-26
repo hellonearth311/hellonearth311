@@ -19,7 +19,7 @@ I build dumb shit.
 ### [Echoes of the Void](https://github.com/hellonearth311/Echoes-of-the-Void)
 > A Minecraft mod that introduces rare structures, mysterious mobs, and powerful items, made in Fabric.
 
-### [PulseAI (WIP)](https://github.com/hellonearth311/copper-rails)
+### [Copper Rails](https://github.com/hellonearth311/copper-rails)
 > Copper rails in MC
 
 ### [Statz](https://github.com/hellonearth311/Statz)
